@@ -17,6 +17,8 @@ All dependencies are already installed in CoLab. If you want to run notebook on 
 
 Run train.ipynb on Google Colab by clicking the badge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nithiroj/car-recognition/blob/master/train.ipynb)
 
+In CoLab, during training model, you may find warning **"Buffered data was truncated after reaching the output size limit."** because there is a limited memory for displaying output on colab. However, the machine keeps running in the background and the output is processed but it is not displayed because of the buffered limit. You will still get your desired output.
+
 ### Test
 
 Run test.ipynb on Google Colab by clicking the badge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nithiroj/car-recognition/blob/master/test.ipynb)
