@@ -25,5 +25,5 @@ Run test.ipynb on Google Colab by clicking the badge. [![Open In Colab](https://
 **90.21%**
 
 ### Demo
-Run train.ipynb on Google Colab by clicking the badge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nithiroj/car-recognition/blob/master/demo.ipynb)
+Run demo.ipynb on Google Colab by clicking the badge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nithiroj/car-recognition/blob/master/demo.ipynb)
 
